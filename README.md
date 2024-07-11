@@ -1,4 +1,5 @@
-# Freeway Game
+# Jogo Freeway
+
 ## Este projeto é um jogo desenvolvido durante o curso na Alura e como parte do programa 'Talentos de Futuro '24'. O objetivo do jogo é atravessar a rua sem ser atingido pelos carros.
 
 ## Índice
@@ -11,7 +12,7 @@
 7. Contato
    
 ## Descrição
-O Freeway Game é um jogo simples e divertido onde o jogador deve atravessar a rua, evitando os carros que se movem de um lado para o outro. O jogo foi desenvolvido para aprimorar habilidades em JavaScript, HTML e CSS.
+O Freeway Game é um jogo simples e divertido onde o jogador deve atravessar a rua, evitando os carros que se movem de um lado para o outro. O jogo foi desenvolvido para aprimorar habilidades em JavaScript, HTML, CSS e p5.js.
 
 ## Funcionalidades
 - Controle de um personagem que se move para cima e para baixo
@@ -35,6 +36,7 @@ O Freeway Game é um jogo simples e divertido onde o jogador deve atravessar a r
 - HTML
 - CSS
 - JavaScript
+- P5.js
 
 ## Contribuição
 Se você deseja contribuir com o projeto, siga os passos abaixo:
@@ -45,5 +47,5 @@ Se você deseja contribuir com o projeto, siga os passos abaixo:
 - Envie para a branch principal (git push origin feature/nova-feature).
 - Abra um Pull Request.
 
-Contato
+# Contato
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato.
